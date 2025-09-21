@@ -30,8 +30,8 @@
     color: rgb(29, 155, 240);
   }
 
-  .one-click-quote-btn svg {
-    transform="scale(24/512)";
+  button[aria-label="Grok actions"] {
+    padding-bottom: 5px !important;
   }
   `;
 
