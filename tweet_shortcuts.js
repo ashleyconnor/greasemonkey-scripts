@@ -5,11 +5,15 @@
 // @description  Adds a button to quickly view tweet quotes, as well as block and mute account buttons
 // @author       Ashley Connor
 // @match        https://x.com/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAGIUlEQVRoQ9WZd8geRRDGv2jsYsHeEStGY1fsn6KixpYYo4joh6LRKNjFAjZs2P/QWDHRRNFEDEmMBUuINfYSW1AiWFHsvevzkxnZrHfv7t698pGBh73bm53d2TIzOzegZx6nAfP4+HtCBe6QMocUKnSa+K8obFPCvoCY7xN2t0bfqdxReMWFhAosqcpXhTUKevhFvFtbu4JmWayM7Vahz7h/U7mP8FDYOt5Cvfr4qDCfMX2q8oeK7lZU3aJW/7rKLYWfs4aVz3S+WM8x9r9UHiGMjZtXnYHLxMTWgB4W9hD+jBruqfdpgre/Ws8n548tyXmkOG4JuM7V8wVVraoUWEiMM4VNrMEpKq+qaHy96o4JZmiInh9IDi3NwORMEQYaK9sIhSqpzgptIO4XhEUE9vk2wsuRhIX1/pywkdV/rHKw8EV6jLUcm+nLDGFx43hMJQr9WqoA/CcI11jDt1RuIfwYCdpQ788LKANNEoY1VGBVtXtGoIRmCTsI33SS18kP8I19zgxANwjHVghj718Z1B+u59sLlcACPiH4an6oZ1adsiOlHNnKav2asIxJGaFyYiQRGdjqvaz+e5WbCu+mOrfvC6rk7Oxi78w4M88KJCmlAAKGCveapK9Ubix8EEle3hRdweqfUrmT8EdiBPTPah1qfOx1JgJTnkU5CiBojNBnEjlkzFbKtJ4tnosTo8CLY+UgbD3bb1zWyI0pVwGswkvCOtbuVJXhvvc+R+vBz8nvet5OwFJVESYYU+x0uh4uLxk8vLkKwLut8Lgwv4BbZ3BYoJBi0/q2Pm4uxNaLkACLhSzoJmFk6eBLFYD/QoGtAXFIOawc2pBi03qdPh4fMBB2TBcWszos3f4CK1ZMJSuAcLzjkwIBHHSj4N447Pwkvbj3Zm/vK2Cp1hKeFjj0EM6yV6iKt7KUKVUAoWsLeGX3lnWmdap4CC+gzwQOPtZsXaubo5JtScDYmJooQGccVA4sROhACEEoERIRKz5kOavERGLzoc9t8O80Hrk1bKoAzZnhvU1OrmmF/SdhV4Gt1JraKIDTwlv6DNeZQQ7xqGCkx+nZV69fFaDz8F6Aad1eiO1+bFpfFA9xDvytqc0KeOdYoqPtBbtP1BpbFcKPZwXuGhC3rfNaj14CuqEA9pxZXc8GVOeUwqgVm8/lnPC5FXVDAQaAX8A/+C2KOwGeNiT6elDwDEOdIyxSqFsK0Cn3Vt8WRK1cSd+PRhNHrdx7jyoaccWstGkftl1KLx8Jnq0gJGa246iVOGiy4JNHGMF7I+rWChCU4WUJGUKqM61h1IpTwxF+0kSDbinAVvDMAbGPy8X7YjIJxUMiWUAcRPIA4kZG2EHbIuqGAuHep3OcFnHPcBtJbtTayMG1VYBc6vhgxt2+L6s64qCVTIk60xpGrWT2CLXJ9GVTGwV2Vi+YRQ/Q7tQzd1vfBhxgvnsfB+l5QjQyvoVRK1uNLVebB4o1a6oAlxbSIFgeiAsKKci442tVx9aAck0r92i/NCVXookCq0gqHnQ1k86Skwb5uqI34iCunSgM5UStmF3OELxJKlVgCUlk5jF7EHafJY/TLGHHpAtR2Lda3T+FMGp9T/w4wm9TGpQowM+G+wVieQjhzDyHNUVnieEiY8qNWm8Tf19KcK4C8I0VDgsGQQLqkVQH9p3/DXjmXnvPNa0Hi//uTn3kKnCJhJxhgrAyzExp/pMzwx+gpU1OjmnlXLFda7dojgIEW3TmdKYeLs2c+ZiNFWRrOOWYVlYZk1zppVMKsE0ItDxMvlnPfnlpqEPPXWrIwKHcXCsOz1P9c/XbSQFuVth3T59wgPcTGiWggl7xHWyl1a0ux7Tyk2Ur4T8Go06BNcWM6fNsMzeuXiHOwjVdBSwZfxv9Z2KOaX1D/EzqXD8TqxTgXwDpcb8iYpOx9a0SUBWakrlja0CdTCt3afc7JH8J0f+lWAE8J4eGxC1E0orn2U2nukO72EuTGHuzgp9fTutbPV6a1WNr/0OhAiwnwdYB9o2l2k3grvt/0SAJ5l7g/9hy+sH7syJfxgrwr/fEQFMsxT05Elvy8K+h9L8A4zowVqDlOPqnecoP9M+oCnr9G4gxNEB+4emeAAAAAElFTkSuQmCC
+// @run-at       document-end
 // @grant        none
+// @tag          twitter productivity
+// @run-at       https://raw.githubusercontent.com/ashleyconnor/greasemonkey-scripts/refs/heads/main/tweet_shortcuts.js
+// @supportURL   https://github.com/ashleyconnor/greasemonkey-scripts
 // ==/UserScript==
 
-(function () {
+(() => {
   "use strict";
 
   const quoteBtnStyles = `
@@ -147,8 +151,23 @@
 
   // insert button for quote tweets when added to DOM
   const observer = new MutationObserver((muts) => {
+    let timelineSelector = 'div[aria-label^="Timeline:"]';
+
     muts.forEach((m) => {
-      m.addedNodes.forEach((n) => {
+      // filter elements we don't care about
+      let filteredNodes = Array.from(m.addedNodes)
+        .map((n) => {
+          // look for home timeline elements and clip the container
+          if (
+            n.querySelector('div[aria-label^="Home timeline"]') &&
+            n.querySelector(timelineSelector)
+          )
+            return n.querySelector(timelineSelector);
+          return n;
+        })
+        .filter(Boolean);
+
+      filteredNodes.forEach((n) => {
         insertCustomButton(
           n,
           "one-click-quote-btn",
@@ -171,5 +190,29 @@
     });
   });
 
+  function processInitialTweets() {
+    document.querySelectorAll("article").forEach((n) => {
+      insertCustomButton(
+        n,
+        "one-click-quote-btn",
+        iconPath.quote,
+        quoteTweetsCallback
+      );
+      insertCustomButton(
+        n,
+        "one-click-mute-btn",
+        iconPath.mute,
+        muteTweetsCallback
+      );
+      insertCustomButton(
+        n,
+        "one-click-block-btn",
+        iconPath.block,
+        blockTweetsCallback
+      );
+    });
+  }
+
+  processInitialTweets();
   observer.observe(document.body, { subtree: true, childList: true });
 })();
